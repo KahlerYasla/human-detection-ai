@@ -1,0 +1,6 @@
+# requirements.txt
+
+jupyter==1.0.0
+tensorflow==2.6.0
+keras==2.6.0
+labelImg==1.8.5

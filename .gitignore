@@ -1,0 +1,37 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment
+venv/
+myvenv/
+myenv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore dependencies
+/venv/
+/node_modules/
+
+# Ignore any sensitive or private information
+secrets.ini
+config.ini
+
+# Ignore any build artifacts
+/build/
+/dist/
+
+# Ignore any generated documentation
+/docs/
+
+# Ignore any user-specific settings
+/.env
+
+# Ignore any operating system or editor-specific files
+.DS_Store
+Thumbs.db
